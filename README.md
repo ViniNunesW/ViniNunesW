@@ -1,6 +1,10 @@
-<h2> Olá, sou o Vinícius!</h2>
+<h1> Olá, sou o Vinícius!</h1>
 
-<div>
-  <h4>Ferramentas e Tecnologias</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+<h3>Conheça mais sobre mim!</h3>
+
+
+  <h4>Linguagens e Ferramentas</h4>
+  <img height="40em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+
