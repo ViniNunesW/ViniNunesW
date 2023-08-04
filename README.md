@@ -5,10 +5,10 @@
 
 <div> 
 <h4>Sobre mim 😜</h4>
--16 anos ✨
--Estudante SATC 
--Futuro técnico de informática 💻
--Gosto de Vôlei 🏐
+-16 anos ✨ <br>
+-Estudante SATC <br> 
+-Futuro técnico de informática 💻 <br>
+-Gosto de Vôlei 🏐 <br>
 </div>
 
 <br>
