@@ -8,7 +8,7 @@
 -16 anos ✨ <br>
 -Estudante SATC <br> 
 -Futuro técnico de informática 💻 <br>
--Gosto de Vôlei 🏐 <br>
+-Esporte preferido: Vôlei 🏐 <br>
 </div>
 
 <br>
