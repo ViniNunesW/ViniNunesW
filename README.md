@@ -5,7 +5,7 @@
 
 <div> 
 <h4>Sobre mim 😜</h4>
--16 anos ✨ <br>
+-17 anos ✨ <br>
 -Estudante SATC <br> 
 -Futuro técnico de informática 💻 <br>
 -Esporte preferido: Vôlei 🏐 <br>
