@@ -5,9 +5,10 @@
 
 <div> 
 <h4>Sobre mim 😜</h4>
--17 anos ✨ <br>
+-18 anos ✨ <br>
 -Estudante SATC <br> 
--Futuro técnico de informática 💻 <br>
+-Técnico de Informática 💻 <br>
+-Engenharia de Software 1/8 <br>
 </div>
 
 <br>
